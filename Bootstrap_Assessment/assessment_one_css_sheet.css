@@ -1,0 +1,56 @@
+* {
+    background-color: #e6aa06 !important;
+    font-family: 'Metal Mania', cursive;;
+}
+
+.fdm {
+    font-weight: bold;
+    color: white;
+}
+
+/*.main_area {
+    text-align: center;
+    margin: 80px auto;
+    line-height: 15px;
+}*/
+
+.navbar-brand{
+    font-size: 16px !important;
+    margin-top: 40px !important;
+}
+
+h1.display-4{
+    line-height: .2em !important;
+}
+
+h1 {
+    color: white;
+    font-size: 48px;
+}
+
+.btn{
+    border-color: white !important;
+}
+/*.quote{
+    color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    width: fit-content;
+    height: fit-content;
+    font-size: 8px;
+    margin: auto;
+    padding: 5px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}*/
+
+@media screen and (max-width: 768px) {
+    *{
+    background-color: #3a07f5 !important;
+    }
+
+    .display-4{
+        font-size: 24px !important;
+    }
+}
